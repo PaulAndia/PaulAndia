@@ -32,7 +32,7 @@
 
 
 ## 📞 Feel free to contact me
-<p align = "bottom" text-align = "bottom"> <a href="mailto:criskol.71@gmail.com"><img align="center" src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png" alt="Paul" height="20" width="20"/></a>  Reach out to me via mail: paulandresandia@gmail.com</p>
+<p align = "bottom" text-align = "bottom"> <a><img align="center" src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png" alt="Paul" height="20" width="20"/></a>  Reach out to me via mail: paulandresandia@gmail.com</p>
 
 
 <p align = "bottom" text-align = "bottom"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="20" width="20" />  LinkedIn: https://www.linkedin.com/in/paulandia/</p>
