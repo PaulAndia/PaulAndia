@@ -25,11 +25,13 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<h3>Authentication and testing skills</h3>
+<h3>Authentication, testing and other skills</h3>
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ## 📞 Feel free to contact me
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png" alt="Paul" height="20" width="20"/></a>  Reach out to me via mail: paulandresandia@gmail.com</p>
