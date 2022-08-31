@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! My name is Paul 👋</h1>
 
-<h3 text-align="justify">I am a Full-Stack web developer specializing in Javascript technologies, passionate about everything related to the logical process either in Back-end or Front-end development. When it comes to programming, I usually create diagrams or pseudocode to understand the whole workflow, this allows me to reduce errors and locate them easily.</h3>
+<h4 text-align="justify">I am a Full-Stack web developer specializing in Javascript technologies, passionate about everything related to the logical process either in Back-end or Front-end development. When it comes to programming, I usually create diagrams or pseudocode to understand the whole workflow, this allows me to reduce errors and locate them easily.</h4>
 <p>Feel free to browse through my repositories. May I suggest you start with [PadelApp](https://github.com/PaulAndia/PadelApp)?</p>
 
 ## 💻 My technical skills include
@@ -30,11 +30,10 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
+## 📞 Feel free to contact me
+<p align = "bottom" text-align = "bottom"> <a href="mailto:criskol.71@gmail.com"><img align="center" src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png" alt="Paul" height="20" width="20"/></a>  Reach out to me via mail: paulandresandia@gmail.com</p>
 
 
-## 📞 Feel fre to contact me
-<p align="left">
-<a href="mailto:criskol.71@gmail.com"><img align="center" src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png" alt="Cristian Gonzalez" height="30" width="30"/></a>
-<a href="https://www.linkedin.com/in/cristian-gonzalez-fuentes-developerfullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="30" width="40" /></a>
-<a href="https://www.facebook.com/wacho.gonzalezporshella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Cristian Gonzalez" height="30" width="40" /></a>
-</p>
+<p align = "bottom" text-align = "bottom"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="20" width="20" />  LinkedIn: https://www.linkedin.com/in/paulandia/</p>
+
+
