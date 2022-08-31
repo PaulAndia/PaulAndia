@@ -36,5 +36,3 @@
 
 
 <p align = "bottom" text-align = "bottom"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="20" width="20" />  LinkedIn: https://www.linkedin.com/in/paulandia/</p>
-
-
