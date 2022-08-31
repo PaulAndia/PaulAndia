@@ -1,7 +1,8 @@
 <h1 align="center">Hello there! My name is Paul 👋</h1>
 
 <h4 text-align="justify">I am a Full-Stack web developer specializing in Javascript technologies, passionate about everything related to the logical process either in Back-end or Front-end development. When it comes to programming, I usually create diagrams or pseudocode to understand the whole workflow, this allows me to reduce errors and locate them easily.</h4>
-<p>Feel free to browse through my repositories. May I suggest you start with [PadelApp](https://github.com/PaulAndia/PadelApp)?</p>
+<p>Feel free to browse through my repositories. I suggest you start with [PadelApp](https://github.com/PaulAndia/PadelApp)? this web application allows padel players search and book nearby padel fields.
+</p> 
 
 ## 💻 My technical skills include
 <h3>Front-end skills</h3>
